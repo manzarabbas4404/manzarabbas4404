@@ -3,8 +3,7 @@ My name is Manzar Abbas and I'm a Python / Django Developer & Ai student.
 
 ## About
 I have been making constant efforts to make a mark in the field of Computer Science, with a thirst for knowledge and a productive approach to learning. I am yearning to unleash my utmost potential. I have always been inspired by people who started almost from nothing and made a name for themselves. I aspire to become one of them. I see myself as capable of heading my own career and bringing it to such a level that it would impact other people and change their lives.
-
-I am passionate about building backend systems and exploring how intelligent systems can solve real-world problems. I believe in consistent learning, practical implementation, and improving my problem-solving skills through hands-on development. I am motivated by people who grow through dedication and discipline, and I aspire to build a strong career in software development and artificial intelligence that creates meaningful impact.
+I am passionate about building backend systems and exploring how intelligent systems can solve real-world problems. I believe in consistent learning, practical implementation, and improving my problem-solving skills through hands-on development. I aspire to build a strong career in software development and artificial intelligence that creates meaningful impact.
 
 ## 🔧 Technologies & Tools
 
