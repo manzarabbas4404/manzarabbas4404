@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello, folks! 👋  
+My name is Manzar Abbas and I'm a Python / Django Developer and an AI student.
 
-<!--
-**manzarabbas4404/manzarabbas4404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+I am passionate about building backend systems and learning how intelligent systems can solve real-world problems. I believe in consistent learning, practical implementation, and improving my problem-solving skills through hands-on development. I am motivated by people who grow through dedication and discipline, and I aspire to build a strong career in software development and artificial intelligence that creates meaningful impact.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Python
+- Django
+- Django REST Framework (DRF)
+- API Integrations
+- HTML, CSS, Bootstrap
+- Git & GitHub
+- Google Cloud Platform (GCP)
+- Debugging & Testing
+- Agile Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently Working On
+- Backend projects using Django & DRF
+- Improving API design and integrations
+
+## 🌱 Currently Learning
+- Artificial Intelligence concepts
+- Advanced backend architecture
+- Cloud deployment and scalability
+
+## 🤝 Open To
+- Learning opportunities
+- Collaboration on backend or AI-related projects
